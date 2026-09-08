@@ -19,3 +19,14 @@ Shakespeare/Whitespace/Chef/Piet/Rockstar--all beyond my stereotype of coding th
 ## thinking
 
 Learning to program is not about writing code faster than a machine. It is about developing the perception to see what is possible, and use the tool to create something that is actually yours.
+
+## personal experience mapping
+
+- Urban planning background → multidisciplinary but no deep technical fluency.
+- I have used AI to write code I could not have written myself, and it ran. But "it ran" is no longer the differentiator — anyone can produce that.
+- The gap: "it runs" vs "it's mine"
+- Reading as the surviving skill — the director analogy
+
+## What survives-- not syntax, judgment
+
+It is the course teach me to read, judment and control.
