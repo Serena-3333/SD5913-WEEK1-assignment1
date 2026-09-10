@@ -29,4 +29,7 @@ Learning to program is not about writing code faster than a machine. It is about
 
 ## What survives-- not syntax, judgment
 
-It is the course teach me to read, judment and control.
+It is the course teach me to read, judment and control
+c
+
+check if it works.
